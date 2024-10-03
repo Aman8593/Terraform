@@ -1,0 +1,8 @@
+Terraform 
+terraform init
+terraform plan
+terraform apply // to create amw instance
+terraform destroy
+
+give name of .pem file
+enter a value : yes
